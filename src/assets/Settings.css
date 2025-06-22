@@ -1,0 +1,86 @@
+/* src/assets/Settings.css */
+
+/* General container styling */
+.settings-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+    transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+}
+
+/* Dark theme */
+.settings-container.dark {
+    background-color: #1d2634;
+    color: #9e9ea4;
+}
+
+/* Light theme */
+.settings-container.light {
+    background-color: #f9f9f9; /* Light background */
+    color: #333; /* Dark text for readability */
+}
+
+h1 {
+    margin-bottom: 20px;
+    color: inherit; /* Use theme text color */
+}
+
+form {
+    width: 100%;
+    max-width: 600px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s; /* Smooth transition */
+}
+
+/* Form background colors based on theme */
+.settings-container.dark form {
+    background-color: #263043;
+}
+
+.settings-container.light form {
+    background-color: #fff; /* White form background */
+}
+
+.setting-item {
+    margin: 15px 4px;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    display: block;
+}
+
+input[type="email"],
+input[type="password"],
+input[type="file"],
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff; /* Always white */
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+    margin-top: -5px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #2962ff;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
