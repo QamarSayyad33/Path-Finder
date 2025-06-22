@@ -1,2 +1,8 @@
-# Path-Finder
-Path Finder – Student Success Companion is a full-stack web app that centralizes academic tracking, career updates, and essential resources in a secure, user-friendly platform. It simplifies navigation, enhances decision-making, and helps students stay informed and on track throughout their academic journey.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
