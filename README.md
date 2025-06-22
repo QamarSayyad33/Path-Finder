@@ -60,3 +60,11 @@ This application simplifies academic tracking, career development, and interview
 ![Screenshot 2025-06-22 111042](https://github.com/user-attachments/assets/c259e9b0-b2af-44b4-92cb-f54811152940)
 
 
+
+Results Screenshots
+
+
+![Screenshot 2025-06-22 111510](https://github.com/user-attachments/assets/670c11e4-d396-465a-9d46-c2827ffd68b8)
+
+
+
