@@ -57,3 +57,6 @@ Backend: Express.js and MongoDB power secure data storage and efficient session 
 Routing and Middleware: React Router handles seamless navigation, while Express.js manages backend API interactions and session control.
 
 This application simplifies academic tracking, career development, and interview preparation, providing students with a comprehensive tool for academic success.
+![Screenshot 2025-06-22 111042](https://github.com/user-attachments/assets/c259e9b0-b2af-44b4-92cb-f54811152940)
+
+
